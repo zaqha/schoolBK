@@ -1,0 +1,29 @@
+* {
+  text-align: center;
+
+}
+
+body {
+  width: 80%;
+  justify-content: center;
+  margin: 10px auto;
+}
+
+table {
+  border: solid 2px #7777;
+
+}
+
+th {
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+  margin: 10px auto;
+  justify-content: space-between;
+}
+.btn{
+  width: 24.5%;
+}
